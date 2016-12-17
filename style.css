@@ -42,7 +42,9 @@ body {font-family: 'Roboto', sans-serif;
 .social-media-btn {color: #fff;}
 .social-media-btn:hover {color: #d7ae4c;}
 
-.header-background {background-color: #ebebeb;}
+.header-background  {background-color: #E5E5E5; margin-top: 0px; padding-top: 0px;
+    padding-bottom: 0px; background-image: url(https://2.bp.blogspot.com/-xppL6QWh3K0/WFT3ZgO9tPI/AAAAAAAAA9E/OKHKLgKDuiUnC9Gf61JMTGhQTlpxQMBEACLcB/s1600/khangsinh.jpg); background-size: cover; color: #fff; padding-right: 0; padding-left: 0;}
+
 
 .videoWrapper {
 	position: relative;
