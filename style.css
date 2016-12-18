@@ -191,7 +191,7 @@ background: rgba(0, 0, 0, 0.6);}
 /*.tagline-position {margin-left: 500px;}*/
 .large-testimonial {background-image: url(https://4.bp.blogspot.com/-1NWj2vvCGhE/WFY2W2Hz5QI/AAAAAAAAA-k/Zl6LqQ9_ncoYBgls5y2oBUPQTwCbrSX3QCLcB/s1600/bigquote.png); background-repeat: no-repeat; background-position: top left; padding: 40px 0 0 40px; margin-top: 20px; margin-bottom: 20px;}
 
-.testi-cont {font-size: 20px;font-weight: 100; letter-spacing: 1px;}
+.testi-cont {font-size: 20px;font-weight: 300; letter-spacing: 1px;}
 .testi-byline {font-size: 17px; text-align: right; text-transform: uppercase; }
 .testi-byline span {font-weight: bold;}
 
